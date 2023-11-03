@@ -293,15 +293,15 @@ body{
 .x1 {
   z-index: 2;
   opacity: 1;
-  background: url('./img1.jpg');
+  background: url('../img1.jpg');
   background-size: cover;
 }
 .x2 {
-  background: url('./img2.jpg');
+  background: url('../img2.jpg');
   background-size: cover;
 }
 .x3 {
-  background: url('./img3.jpg');
+  background: url('../img3.jpg');
   background-size: cover;
 }
 
